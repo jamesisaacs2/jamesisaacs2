@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, welcome!</h1>
+<h1 align="center">Hi there 👋!  Welcome</h1>
 <h3 align="center">I’m James Isaacs — A passionate full stack developer from the US</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jamesisaacs2&label=Profile%20views&color=0e75b6&style=flat" alt="jamesisaacs2" /> </p>
@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently going deeper on:  **React, .NET, and SQL**
 
-- 👯 Some fun code I enjoyed making:  [Restore code base](https://github.com/jamesisaacs2/Restore), with a live demo site here:  [Restore site](https://restoreji.herokuapp.com/)
+- 👯 Some fun code I enjoyed making:  [Restore code](https://github.com/jamesisaacs2/Restore), with a live demo site here:  [Restore site](https://restoreji.herokuapp.com/)
 
-- 🤝 I’m currently learning:  [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud**
+- 🤝 I’m currently learning:  [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** for certification
 
 - 💬 Ask me about:  **React, .NET, and SQL**
 
-- 📫 Reach me at:  **jackdr5782@gmail.com** or here:  +1-949-297-6511
+- 📫 Reach me at:  **jackdr5782@gmail.com** or here by text:  +1-949-297-6511
 
-- 📄 To know more about my experience:  [Resume](https://rcl.ink/Y2JHF)
+- 📄 To know more about my background and experience:  [Resume](https://rcl.ink/Y2JHF)
 
 ---
 
