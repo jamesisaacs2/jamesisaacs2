@@ -90,15 +90,10 @@
    [![Sarthak's GitHub activity graph](https://ghactivity-graph.herokuapp.com/graph?username=jamesisaacs2&&theme=react-dark)](https://github.com/jamesisaacs2)
    
 </details>
-<br />
 
 ---
 
-<br />
-
 ### Last but not least:
-
-<br />
 
 <details>
    <summary>:zap: API Development in Real-Time (so mesmerizing, a must-see)</summary>
