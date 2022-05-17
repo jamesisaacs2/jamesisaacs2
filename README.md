@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 and welcome! I'm James</h1>
+<h1 align="center">Hi there 👋 and welcome!</h1>
 
-## A US-based Full Stack Developer
+## I'm James -- A Full Stack Developer in the U.S.
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesisaacs2&label=Profile%20views&color=0e75b6&style=flat" alt="jamesisaacs2" /> </p>
@@ -14,13 +14,11 @@
 
 -  🪃 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** (for certification)
 
--  💬 Fun fact: I love playing the ukulele and speak a few languages (human ones 🤣)
-
 -  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
 
----
+-  💬 Fun fact: I love playing the ukulele and speak a few languages (human ones 🤣)
 
-### Let's Connect
+### Let's Connect:
 
 <p align="left">
 <a href="https://twitter.com/jisaacs5782" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisaacs5782" height="30" width="40" /></a>
@@ -29,7 +27,9 @@
 <br />
 <br />
 
-### Languages and Tools
+### Languages and Tools:
+
+<br />
 
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -53,22 +53,57 @@
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 
 </p>
+<br />
+
+<details>
+   <summary>:zap: Most-Used Languages:</summary>
+   <br />
+   <p align="center">
+   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesisaacs2&show_icons=true&locale=en&layout=compact" alt="jamesisaacs2" />
+   </p>
+
+</details>
+<br />
+
+<details>
+   <summary>:zap: GitHub Stats</summary>
+   <br />
+
+   <p align="center"> 
+   <a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jamesisaacs2" alt="jamesisaacs2" /></a> 
+   </p>
+   <br />
+
+   <p align="center">
+   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jamesisaacs2&show_icons=true&locale=en" alt="jamesisaacs2" />
+   <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesisaacs2&" alt="jamesisaacs2" />
+   </p>
+   <br />
+  
+</details>
+<br />
+
+<details>
+   <summary>:zap: A Really Fancy GitHub Activity Graph (past 31 days)</summary>
+   <br />
+   
+   [![Sarthak's GitHub activity graph](https://ghactivity-graph.herokuapp.com/graph?username=jamesisaacs2&&theme=react-dark)](https://github.com/jamesisaacs2)
+   
+</details>
+<br />
 
 ---
 
 <br />
 
-<p align="center"> 
-<a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jamesisaacs2" alt="jamesisaacs2" /></a> 
-</p>
+### Last but not least:
+
 <br />
 
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesisaacs2&show_icons=true&locale=en&layout=compact" alt="jamesisaacs2" />
-</p>
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jamesisaacs2&show_icons=true&locale=en" alt="jamesisaacs2" />
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesisaacs2&" alt="jamesisaacs2" />
-</p>
+<details>
+   <summary>:zap: API Development in Real-Time (so mesmerizing, a must-see)</summary>
+   <br />
 
-<img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="programmer" />
+   <img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="programmer" />
+
+</details>
