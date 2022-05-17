@@ -1,41 +1,37 @@
 <h1 align="center">Hi there 👋 and welcome! I'm James</h1>
-<h3 align="center">A cool developer from the US</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A US-based Full Stack Developer</h3>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesisaacs2&label=Profile%20views&color=0e75b6&style=flat" alt="jamesisaacs2" /> </p>
 <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p>
 
--  🔭 I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
+-  📐 I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
 
--  🤹‍♂️ Some fun code I enjoyed making: [Restore code](https://github.com/jamesisaacs2/Restore)
+-  🤹‍♂️ Something fun I enjoyed making: [Restore (code)](https://github.com/jamesisaacs2/Restore)
 
--  ⚡ with a live site here: [Restore site](https://restoreji.herokuapp.com/)
+-  ⚡ And the live site is here: [Restore (site)](https://restoreji.herokuapp.com/)
 
 -  💬 Fun fact: I love playing the ukulele and speak a few languages (human ones)
 
--  🌱 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** (for certification)
+-  🪃 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** (for certification)
 
 -  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
 
--  📫 How to reach me: **james.isaacs2@gmail.com**
-
 ---
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://twitter.com/jisaacs5782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisaacs5782" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-isaacs2" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jisaacs5782" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisaacs5782" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-isaacs2" height="30" width="40" /></a>
 </p>
 
-<p align="center"> 
-<a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jamesisaacs2" alt="jamesisaacs2" /></a> 
+<p align="right"> 
+<a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="right" src="https://github-profile-trophy.vercel.app/?username=jamesisaacs2" alt="jamesisaacs2" /></a> 
 </p>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools</h3>
 
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
