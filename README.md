@@ -1,16 +1,20 @@
-# Hi there 👋 and welcome!
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jamesisaacs2&label=Profile%20views&color=0e75b6&style=flat" alt="jamesisaacs2" /> </p>
-
-## I’m James Isaacs — A passionate full stack developer from the US
+<h1 align="center">Hi there 👋 and welcome! I'm James</h1>
+<h3 align="center">A cool developer from the US</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesisaacs2&label=Profile%20views&color=0e75b6&style=flat" alt="jamesisaacs2" /> </p>
+<p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p>
 
 -  🔭 I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
--  🌱 I’m currently learning and going deeper on: **React, .NET, and SQL**
--  👯 Some fun code I enjoyed making: [Restore code](https://github.com/jamesisaacs2/Restore), with a live demo site here: [Restore site](https://restoreji.herokuapp.com/)
--  🤝 I’m currently learning: [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** for certification
--  💬 Ask me about: **React, .NET, and SQL**
--  📫 Reach me at: **jackdr5782@gmail.com** or here by text: +1-949-297-6511
--  📄 To know more about my background and experience: [Resume](https://rcl.ink/Y2JHF)
+
+-  🌱 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** (for certification)
+
+-  🤹‍♂️ Some fun code I enjoyed making: [Restore code](https://github.com/jamesisaacs2/Restore), with a live site here: [Restore site](https://restoreji.herokuapp.com/)
+
+-  💬 Fun fact: I love playing the ukulele (concerto size) and speak a few languages (human ones)
+
+-  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
+
+-  📫 How to reach me: **james.isaacs2@gmail.com**
 
 ---
 
@@ -21,8 +25,6 @@
 <a href="https://twitter.com/jisaacs5782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisaacs5782" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-isaacs2" height="30" width="40" /></a>
 </p>
-
-<p align="right"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p>
 
 ### Languages and Tools:
 
