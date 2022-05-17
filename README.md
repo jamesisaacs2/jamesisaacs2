@@ -72,7 +72,6 @@
    <p align="center"> 
    <a href="https://linkedin.com/in/james-isaacs2" target="blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jamesisaacs2" alt="jamesisaacs2" /></a> 
    </p>
-   <br />
 
    <p align="center">
    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jamesisaacs2&show_icons=true&locale=en" alt="jamesisaacs2" />
@@ -90,8 +89,6 @@
    [![Sarthak's GitHub activity graph](https://ghactivity-graph.herokuapp.com/graph?username=jamesisaacs2&&theme=react-dark)](https://github.com/jamesisaacs2)
    
 </details>
-
----
 
 ### Last but not least:
 
