@@ -15,7 +15,7 @@
 <p align='center'>
 </p>
 
-<h2> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> <img align="right" alt="Coding" width="37%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" /></h2>
+<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> <img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" /></h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p> -->
 
@@ -27,7 +27,7 @@
 
 -  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
 
--  🪃 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft) and **AWS Cloud** (for certification)
+-  🪃 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft)
 
 -  💬 Fun fact #1: Tabs not spaces 🤣
 
@@ -81,7 +81,7 @@
 <br />
 
 <details>
-   <summary>:zap: My GitHub Activity Graph (past 31 days -- really fancy, enjoy!)</summary>
+   <summary>:zap: My GitHub Activity Graph, past 31 days (really fancy, enjoy!)</summary>
    <br />
    
    [![Sarthak's GitHub activity graph](https://ghactivity-graph.herokuapp.com/graph?username=jamesisaacs2&&theme=react-dark)](https://github.com/jamesisaacs2)
@@ -91,10 +91,10 @@
 <br />
 
 <details>
-   <summary>:zap: CAUTION:  Programming humor contained within (oh so ROFL -- and yes, it is random generated)</summary>
+   <summary>:zap: CAUTION:  Programming humor follows</summary>
    <br />
    
-   <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '37px'></h2>
+   <h2> Do not read and drink coffee <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '37px'> (and yes, it is random generated) </h2>
    <br />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
@@ -114,7 +114,7 @@
 
 </details>
 
-<h2 align="center" style="padding-top: 50px"> Let's Connect! </h2>
+<h2 align="center" style="padding-top: 70px"> Let's Connect! </h2>
 
 <p align="center">
 <a href="https://twitter.com/jisaacs5782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisaacs5782" height="30" width="40" /></a>
