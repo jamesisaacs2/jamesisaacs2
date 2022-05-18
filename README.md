@@ -4,6 +4,7 @@
 
 <h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 37px> < Fellow Developers Get It /></h1>
 
+👈 [![Github](https://img.shields.io/github/followers/jamesisaacs2?label=Follow%20Me%20On%20Github&style=social)](https://github.com/jamesisaacs2)
 ![Visitors](https://komarev.com/ghpvc/?username=jamesisaacs2&label=Visitors&color=0e75b6&style=flat)
 
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=jamesisaacs2.jamesisaacs2) -->
@@ -34,9 +35,7 @@
 
 <br />
 
-[![Github](https://img.shields.io/github/followers/jamesisaacs2?label=Follow%20Me%20On%20Github&style=social)](https://github.com/jamesisaacs2)
-
-<h2> Skills and Tech <img src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652854298/giphy.gif_aarv9k.gif" width = 27px> </h2>
+<h2> Skills and Tech <img src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652854298/giphy.gif_aarv9k.gif" width = 37px> </h2>
 
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
