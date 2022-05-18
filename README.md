@@ -2,7 +2,7 @@
    <img width="100%" height = "200px" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652847681/earth-1756274_1280_bvifb4.jpg" alt="cover" />
 </div>
 
-<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 37px> < Fellow Developers Get It /></h1>
+<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 37px> < Fellow Developers "Git" It /></h1>
 
 👈 [![Github](https://img.shields.io/github/followers/jamesisaacs2?label=Follow%20Me%20On%20Github&style=social)](https://github.com/jamesisaacs2)
 ![Visitors](https://komarev.com/ghpvc/?username=jamesisaacs2&label=Visitors&color=0e75b6&style=flat)
@@ -11,7 +11,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&width=450&lines=I'm+James+--+Welcome!;I'm+a+Fullstack+Developer+from+the+US;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg) -->
 
-<div size="28px"> I'm James, a Fullstack Developer from the US. Thank You for visiting my GitHub Profile! :smile: </div>
+<div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting my GitHub profile! :smile: </div>
 <p align='center'>
 </p>
 
@@ -114,7 +114,7 @@
 
 </details>
 
-<h2 align="center" style="padding-top: 70px"> Let's Connect! </h2>
+<h2 align="center" style="padding-top: 20px"> Let's Connect! </h2>
 
 <p align="center">
 <a href="https://twitter.com/jisaacs5782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisaacs5782" height="30" width="40" /></a>
