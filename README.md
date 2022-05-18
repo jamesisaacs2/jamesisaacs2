@@ -33,8 +33,6 @@
 
 -  💬 Fun fact #2: I love playing the ukulele and speak a few languages -- human ones 🤣
 
-<br />
-
 <h2> Skills and Tech <img src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652854298/giphy.gif_aarv9k.gif" width = 37px> </h2>
 
 <p align="center"> 
