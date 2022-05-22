@@ -14,8 +14,8 @@
 <div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting! :smile: </div>
 <p align='center'>
 </p>
-<img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
-<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /></h3>
+
+<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> <img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" /> </h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p> -->
 
