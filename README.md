@@ -11,7 +11,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&width=450&lines=I'm+James+--+Welcome!;I'm+a+Fullstack+Developer+from+the+US;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg) -->
 
-<div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting my GitHub profile! :smile: </div>
+<div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting! :smile: </div>
 <p align='center'>
 </p>
 
