@@ -2,7 +2,7 @@
    <img width="100%" height = "200px" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652847681/earth-1756274_1280_bvifb4.jpg" alt="cover" />
 </div>
 
-<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 37px> < Fellow Developers "Git" It /></h1>
+<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 37px> < Fellow Developers /></h1>
 
 👈 [![Github](https://img.shields.io/github/followers/jamesisaacs2?label=Follow%20Me%20On%20Github&style=social)](https://github.com/jamesisaacs2)
 ![Visitors](https://komarev.com/ghpvc/?username=jamesisaacs2&label=Visitors&color=0e75b6&style=flat)
@@ -15,7 +15,9 @@
 <p align='center'>
 </p>
 
-<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> <img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" /> </h3>
+<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
+
+<img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
 
 <!-- <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p> -->
 
@@ -23,7 +25,7 @@
 
 -  🤹‍♂️ Something fun I enjoyed making: [Restore (code)](https://github.com/jamesisaacs2/Restore)
 
--  [ ⚡ And the live site is here: [Restore (site)](https://restoreji.herokuapp.com/) ]
+-  [ ⚡ live site is here: [Restore (site)](https://restoreji.herokuapp.com/) ]
 
 -  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
 
