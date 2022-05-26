@@ -12,21 +12,17 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&width=450&lines=I'm+James+--+Welcome!;I'm+a+Fullstack+Developer+from+the+US;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg) -->
 
 <div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting! :smile: </div>
-<p align='center'>
-</p>
 
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
 
-<img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
-
 <!-- <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p> -->
+<img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
 
 -  📐 I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
 
 -  🤹‍♂️ Something fun I enjoyed making: [Restore (code)](https://github.com/jamesisaacs2/Restore)
 
 -  [ ⚡ live site is here: [Restore (site)](https://restoreji.herokuapp.com/) ]
-
 -  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
 
 -  🪃 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft)
@@ -106,10 +102,8 @@
 </details>
 <br />
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=597&height=90&lines=And+now%2C+the+moment+you+have+been+waiting+for%3A;The+Grand+Finale.++The+Coup+de+Gr%C3%A2ce.;%F0%9F%91%87++(check+this+out)+%F0%9F%91%87>)](https://git.io/typing-svg)
-
 <details>
-   <summary>:zap: API Development in Real-Time (so mesmerizing, a must-see)</summary>
+   <summary>:zap: API Development in Real-Time (more humor, but so mesmerizing, a must-see)</summary>
    <br />
 
    <img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="programmer" />
