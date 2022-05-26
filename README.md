@@ -14,10 +14,10 @@
 <div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting! :smile: </div>
 
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
+<img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
 <!-- <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p> -->
 
 -  📐 I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
-   <img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
 
 -  🤹‍♂️ Something fun I enjoyed making: [Restore (code)](https://github.com/jamesisaacs2/Restore)
 
