@@ -11,7 +11,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&width=450&lines=I'm+James+--+Welcome!;I'm+a+Fullstack+Developer+from+the+US;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg) -->
 
-<div size="28px"> I'm James, a Fullstack Developer from the US. Thank you for visiting! :smile: </div>
+<div size="28px"> I'm James, a Fullstack Developer from the US. :smile: Thank you for visiting! </div>
 
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
 <img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
