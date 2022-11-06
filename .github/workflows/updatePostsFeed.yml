@@ -1,20 +1,21 @@
 name: Update Blog Posts To Profile
 on:
   schedule:
-    # Runs every 6 hours of the day
+    # Runs daily at 12am
     - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with the latest blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://blog.nikfp.com/rss.xml"
-          template: "<div align=\"center\"><p><strong><a href=$url>$title</a></strong></p><p>Published on: $date</p></div><br/>"
-          max_post_count: 3
+          feed_list: "https://hash.brightshinycode.com/rss.xml"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          commit_message: "Recent posts updated"
+          max_post_count: 5
           date_format: shortDate
