@@ -24,11 +24,11 @@
 -  :dizzy: Fun tidbit: Tabs not spaces :laughing:
 -  :star2: Fun fact: I love playing the ukulele and speak a few languages -- human ones :wink:
 
-#### :books: Recent Blog Posts
+### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-[ Read more at [the Bright Shiny Code blog](blog.brightshinycode.com)
 <!-- BLOGPOSTS:END -->
-
+[ Read more at the Bright Shiny Code Blog...
+> [Hold CTRL + click to open in a new tab](https://blog.brightshinycode.com) ]
 
 <h2> Skills and Tech <img src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652854298/giphy.gif_aarv9k.gif" width = 37px> </h2>
 
