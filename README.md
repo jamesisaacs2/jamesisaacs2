@@ -26,7 +26,11 @@
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Test post](https://hash.brightshinycode.com/test-post)<!-- BLOGPOSTS:END -->
+ - 🔥 [Test post](https://hash.brightshinycode.com/test-post)
+
+<!-- BLOGPOSTS:END -->
+
+
 [ Read more at the Bright Shiny Code Blog...
 > [Hold CTRL + click to open in a new tab](https://blog.brightshinycode.com) ]
 
