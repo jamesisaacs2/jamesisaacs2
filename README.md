@@ -25,7 +25,8 @@
 -  :star2: Fun fact: I love playing the ukulele and speak a few languages -- human ones :wink:
 
 ### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START --><div align="center"><p><strong><a href=https://blog.nikfp.com/programming-is-everything-and-everything-is-programming>Programming is everything and everything is programming!</a></strong></p><p>Published on: 10/14/22</p></div><br/><div align="center"><p><strong><a href=https://blog.nikfp.com/exploring-the-guilds-incredible-graphql-tools>Exploring The Guild&#39;s incredible GraphQL tools</a></strong></p><p>Published on: 6/15/22</p></div><br/><div align="center"><p><strong><a href=https://blog.nikfp.com/soft-skills-checkup-the-many-phases-of-managing>Soft Skills checkup: The many phases of Managing</a></strong></p><p>Published on: 5/24/22</p></div><br/><!-- BLOGPOSTS:END -->
+<!-- BLOGPOSTS:START -->
+ - 🔥 [Test post](https://hash.brightshinycode.com/test-post)<!-- BLOGPOSTS:END -->
 [ Read more at the Bright Shiny Code Blog...
 > [Hold CTRL + click to open in a new tab](https://blog.brightshinycode.com) ]
 
