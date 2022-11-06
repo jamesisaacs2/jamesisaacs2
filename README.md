@@ -4,31 +4,31 @@
 
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 37px> < Fellow Developers /></h1>
 
-👈 [![Github](https://img.shields.io/github/followers/jamesisaacs2?label=Follow%20Me%20On%20Github&style=social)](https://github.com/jamesisaacs2)
+:point_left: [![Github](https://img.shields.io/github/followers/jamesisaacs2?label=Follow%20Me%20On%20Github&style=social)](https://github.com/jamesisaacs2)
 ![Visitors](https://komarev.com/ghpvc/?username=jamesisaacs2&label=Visitors&color=0e75b6&style=flat)
 
 <!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=jamesisaacs2.jamesisaacs2) -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&width=450&lines=I'm+James+--+Welcome!;I'm+a+Fullstack+Developer+from+the+US;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg) -->
 
-<div size="28px"> I'm James, a Fullstack Developer from the US. :smile: Thank you for visiting! </div>
+<div size="28px"> Welcome!  I'm James, a Fullstack Developer :smile: Thank you for visiting! </div>
 
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
 <img align="right" alt="Coding" width="40%" src="https://res.cloudinary.com/gaoy5782/image/upload/v1652845437/programmer_z7dbk9.gif" />
 <!-- <p align="left"> <a href="https://twitter.com/jisaacs5782" target="blank"><img src="https://img.shields.io/twitter/follow/jisaacs5782?logo=twitter&style=for-the-badge" alt="jisaacs5782" /></a> </p> -->
 
--  📐 I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
+-  :computer: I’m currently working on: [Reactivity](https://github.com/jamesisaacs2/Reactivity)
+-  :open_hands: Something fun I enjoyed making: [Restore (code)](https://github.com/jamesisaacs2/Restore)
+-  [ :arrow_forward: live site is here: [Restore (site)](https://restoreji.herokuapp.com/), sorry if it loads a little slow]
+-  :card_index: Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
+-  :dizzy: Fun tidbit: Tabs not spaces :laughing:
+-  :star2: Fun fact: I love playing the ukulele and speak a few languages -- human ones :wink:
 
--  🤹‍♂️ Something fun I enjoyed making: [Restore (code)](https://github.com/jamesisaacs2/Restore)
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+[ Read more at [the Bright Shiny Code blog](blog.brightshinycode.com)
+<!-- BLOGPOSTS:END -->
 
--  [ ⚡ live site is here: [Restore (site)](https://restoreji.herokuapp.com/) ]
--  📄 Learn a bit about my background and experience here: [Resume](https://rcl.ink/Y2JHF)
-
--  🪃 2022 goals: Learn [React Native](https://github.com/jamesisaacs2/RnaNft)
-
--  💬 Fun fact #1: Tabs not spaces 🤣
-
--  💬 Fun fact #2: I love playing the ukulele and speak a few languages -- human ones 🤣
 
 <h2> Skills and Tech <img src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652854298/giphy.gif_aarv9k.gif" width = 37px> </h2>
 
